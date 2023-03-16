@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\himanshu.y.sharma\\source\\repos\\WebApplication23\\WebApplication23\\wwwroot\\Image\\github.jpg",
+      "PackagePath": "staticwebassets\\Image\\github.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication23.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication23.props",
+      "PackagePath": "build\\WebApplication23.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication23.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication23.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication23.props",
+      "PackagePath": "buildTransitive\\WebApplication23.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

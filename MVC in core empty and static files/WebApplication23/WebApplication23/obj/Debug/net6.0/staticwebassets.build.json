@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "j7+Met24zc4E3r7a6+KFtoESsO7wGlNCque/IVfbybo=",
+  "Source": "WebApplication23",
+  "BasePath": "_content/WebApplication23",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication23\\wwwroot",
+      "Source": "WebApplication23",
+      "ContentRoot": "C:\\Users\\himanshu.y.sharma\\source\\repos\\WebApplication23\\WebApplication23\\wwwroot\\",
+      "BasePath": "_content/WebApplication23",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\himanshu.y.sharma\\source\\repos\\WebApplication23\\WebApplication23\\wwwroot\\Image\\github.jpg",
+      "SourceId": "WebApplication23",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\himanshu.y.sharma\\source\\repos\\WebApplication23\\WebApplication23\\wwwroot\\",
+      "BasePath": "_content/WebApplication23",
+      "RelativePath": "Image/github.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\github.jpg"
+    }
+  ]
+}
