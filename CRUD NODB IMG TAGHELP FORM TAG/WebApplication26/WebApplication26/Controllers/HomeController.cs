@@ -47,9 +47,13 @@ namespace WebApplication26.Controllers
 
         public IActionResult Create(student s)
         {
+if(ModelState.IsValid)
+            {
 
-            _istudent.addStudent(s);
-            return RedirectToAction("Index");
+                _istudent.addStudent(s);
+                return RedirectToAction("Index");
+            }
+return View();
 
         }
 
