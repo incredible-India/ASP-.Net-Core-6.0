@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "x6ig6rPQ5g9Zd6kzxtxuiBlAFzfI03Hzn8hgbyiUHfI=",
+  "Source": "WebApplication26",
+  "BasePath": "_content/WebApplication26",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication26\\wwwroot",
+      "Source": "WebApplication26",
+      "ContentRoot": "C:\\Users\\himanshu.y.sharma\\source\\repos\\WebApplication26\\WebApplication26\\wwwroot\\",
+      "BasePath": "_content/WebApplication26",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\himanshu.y.sharma\\source\\repos\\WebApplication26\\WebApplication26\\wwwroot\\Image\\download.jpg",
+      "SourceId": "WebApplication26",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\himanshu.y.sharma\\source\\repos\\WebApplication26\\WebApplication26\\wwwroot\\",
+      "BasePath": "_content/WebApplication26",
+      "RelativePath": "Image/download.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\download.jpg"
+    }
+  ]
+}
