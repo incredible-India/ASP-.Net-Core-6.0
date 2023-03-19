@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_Layout";
+}
+
+<h1>Hello @ViewData["Name"]</h1>
+
+<environment include="Development">
+    <div>Environment is Development</div>
+</environment>
+@section name{
+    <h1>I am the section</h1>
+}
