@@ -558,3 +558,4 @@ C:\Users\himanshu.y.sharma\Desktop\New folder (2)\_Istudent CRUD\_Istudnet\_Istu
 C:\Users\himanshu.y.sharma\Desktop\New folder (2)\_Istudent CRUD\_Istudnet\_Istudnet\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\himanshu.y.sharma\Desktop\New folder (2)\_Istudent CRUD\_Istudnet\_Istudnet\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\himanshu.y.sharma\Desktop\New folder (2)\_Istudent CRUD\_Istudnet\_Istudnet\obj\Debug\net6.0\_Istudnet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\himanshu.y.sharma\Desktop\New folder (2)\_Istudent CRUD\_Istudnet\_Istudnet\bin\Debug\net6.0\_Istudnet.staticwebassets.runtime.json

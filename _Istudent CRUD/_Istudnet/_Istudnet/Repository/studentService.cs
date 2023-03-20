@@ -17,12 +17,13 @@ namespace _Istudnet.Repository
 
         public async Task<int> AddStudent(Student Model)
         {
-           Student newSt = new Student()
-           {
-             
-               Name = Model.Name,
-               Email = Model.Email, 
-               Description = Model.Description,
+            Student newSt = new Student()
+            {
+
+                Name = Model.Name,
+                Email = Model.Email,
+                Description = Model.Description,
+            
            };
          
            await _studentContext.Students.AddAsync(newSt);

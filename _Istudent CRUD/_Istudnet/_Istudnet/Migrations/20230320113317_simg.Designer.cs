@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using _Istudnet.Data;
 
@@ -10,9 +11,10 @@ using _Istudnet.Data;
 namespace _Istudnet.Migrations
 {
     [DbContext(typeof(studentContext))]
-    partial class studentContextModelSnapshot : ModelSnapshot
+    [Migration("20230320113317_simg")]
+    partial class simg
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

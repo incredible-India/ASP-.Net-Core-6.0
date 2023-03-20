@@ -1,11 +1,14 @@
 using _Istudnet.Data;
 using _Istudnet.Models;
-using _Istudnet.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation;
+using _Istudnet.Repository;
+using _Istudnet.Helper;
+//using _Istudnet.Helper;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddMvc(options => options.EnableEndpointRouting = false);
 builder.Services.AddScoped<_student, studentService>();
+//builder.Services.AddScoped<>(mycustomeValidation);
 
 #if DEBUG
 

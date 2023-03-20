@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "pWZSPJCqJyDilVKUnTMQDcYWPNU7XfZJHgVzlYU+lSQ=",
+  "Hash": "vgBzIutYJG8FFBEyPh1IMQfOcCtd+yTsWj/Hgxp0pJc=",
   "Source": "_Istudnet",
   "BasePath": "_content/_Istudnet",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "_Istudnet\\wwwroot",
+      "Source": "_Istudnet",
+      "ContentRoot": "C:\\Users\\himanshu.y.sharma\\Desktop\\New folder (2)\\_Istudent CRUD\\_Istudnet\\_Istudnet\\wwwroot\\",
+      "BasePath": "_content/_Istudnet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\himanshu.y.sharma\\Desktop\\New folder (2)\\_Istudent CRUD\\_Istudnet\\_Istudnet\\wwwroot\\imagef213dcd4-2713-4e89-ae06-82b8ad5de834custom validate.png",
+      "SourceId": "_Istudnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\himanshu.y.sharma\\Desktop\\New folder (2)\\_Istudent CRUD\\_Istudnet\\_Istudnet\\wwwroot\\",
+      "BasePath": "_content/_Istudnet",
+      "RelativePath": "imagef213dcd4-2713-4e89-ae06-82b8ad5de834custom validate.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagef213dcd4-2713-4e89-ae06-82b8ad5de834custom validate.png"
+    }
+  ]
 }

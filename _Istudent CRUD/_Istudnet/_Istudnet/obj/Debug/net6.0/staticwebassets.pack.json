@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\himanshu.y.sharma\\Desktop\\New folder (2)\\_Istudent CRUD\\_Istudnet\\_Istudnet\\wwwroot\\imagef213dcd4-2713-4e89-ae06-82b8ad5de834custom validate.png",
+      "PackagePath": "staticwebassets\\imagef213dcd4-2713-4e89-ae06-82b8ad5de834custom validate.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild._Istudnet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build._Istudnet.props",
+      "PackagePath": "build\\_Istudnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting._Istudnet.props",
+      "PackagePath": "buildMultiTargeting\\_Istudnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive._Istudnet.props",
+      "PackagePath": "buildTransitive\\_Istudnet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
