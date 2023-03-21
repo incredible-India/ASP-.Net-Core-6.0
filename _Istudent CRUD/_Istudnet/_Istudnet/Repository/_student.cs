@@ -10,5 +10,7 @@ namespace _Istudnet.Repository
         public Task<int> AddStudent(Student s);
 
         public Student GetStudentById(int id);
+
+        public Task<List<Student>> GetTopStudents();
     }
 }

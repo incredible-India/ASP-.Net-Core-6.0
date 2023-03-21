@@ -38,6 +38,11 @@ namespace _Istudnet.Repository
             return _studentContext.Students.ToList();
         }
 
+        public async Task<List<Student>> GetTopStudents()
+        {
+            return _studentContext.Students.Take(3).ToList();
+        }
+
         public Student GetStudentById(int id)
         {
             return _studentContext.Students.Where(Id => Id.Id == id).FirstOrDefault();

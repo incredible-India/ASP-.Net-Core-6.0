@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V1zqqj9Y87rnGv2UOSEUk4k2aR+PUxxt78D5YP1ybHxnwmU56TrVzelrIBlhEbPwZkxOE3L6JfJ5n8F04NtUSA==",
+  "dgSpecHash": "S3kwPj43jP+dysfTQtho/4RFA8Rjkv53lI4w+R7JuQqBwzhAjlzW47mB9uFzNmm4XClTR/gAuPoIf/iJ04Lu0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\himanshu.y.sharma\\Desktop\\New folder (2)\\_Istudent CRUD\\_Istudnet\\_Istudnet\\_Istudnet.csproj",
   "expectedPackageFiles": [
@@ -181,11 +181,7 @@
     "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
